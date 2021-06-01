@@ -2,7 +2,7 @@
 
 
 
-github.com/hiszm/getOffer
+https://github.com/hiszm/getOffer
 
 [原书C++版本](https://github.com/hiszm/getOffer/tree/main/Cpp)
 
